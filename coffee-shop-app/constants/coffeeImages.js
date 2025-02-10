@@ -1,4 +1,5 @@
 
+//Image map
 export const coffeeImages = {
     "Latte": require("../assets/coffees/latte.jpg"),
     "Espresso": require("../assets/coffees/espresso.jpg"),
